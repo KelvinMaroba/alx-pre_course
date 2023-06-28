@@ -1,1 +1,2 @@
-My first readme updated
+My first readme
+Hi i am Kelvin
